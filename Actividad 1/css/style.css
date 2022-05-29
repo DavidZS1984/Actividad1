@@ -23,6 +23,11 @@ ul {
   background-color: #dddddddd;
 }
 
+li a{
+text-decoration: none;
+
+}
+
 li {
   float: left;
   display: inline;
